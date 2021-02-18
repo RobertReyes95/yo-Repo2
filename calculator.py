@@ -12,3 +12,6 @@ class subtract():
     print("Your total is " + str(total))
 
 subtract()
+
+nump = np.eye(3)
+print(nump)
